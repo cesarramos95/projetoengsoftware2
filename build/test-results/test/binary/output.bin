@@ -1,0 +1,10 @@
+deletarCliente
+zErro: No suitable driver found for jdbc:mysql://localhost:3306/boutique?useTimezone=true&serverTimezone=UTC&useSSL=false
+buscarClientes
+zErro: No suitable driver found for jdbc:mysql://localhost:3306/boutique?useTimezone=true&serverTimezone=UTC&useSSL=false
+connectToDb
+zErro: No suitable driver found for jdbc:mysql://localhost:3306/boutique?useTimezone=true&serverTimezone=UTC&useSSL=false
+atualizarNomeCliente
+zErro: No suitable driver found for jdbc:mysql://localhost:3306/boutique?useTimezone=true&serverTimezone=UTC&useSSL=false
+inserirCliente
+zErro: No suitable driver found for jdbc:mysql://localhost:3306/boutique?useTimezone=true&serverTimezone=UTC&useSSL=false
